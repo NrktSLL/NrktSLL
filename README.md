@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Spring Boot and Cloud**
 
+  📫 How to reach me:  &nbsp;<a href="https://linkedin.com/in/ali-nurkut-sullu" target="blank"><img align="center" alt="nurkut's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+
 <h3 align="center", style="text-align:center">Languages and Tools:</h3>
 
 <p align="center">&nbsp;
@@ -27,9 +29,4 @@
 <p align="center">&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=nrktsll&show_icons=true&locale=en" alt="nrktsll" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrktsll&show_icons=true&locale=en&layout=compact" alt="nrktsll" height="150"/>
-</p>
-
-
-<p align="center">
-<a href="https://linkedin.com/in/ali-nurkut-sullu" target="blank"><img align="center" alt="nurkut's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 </p>
