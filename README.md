@@ -2,8 +2,6 @@
 
 - 🎓 I’m currently student of **Management Information System** at **Cumhuriyet University**
 
-- 👨‍💻 I’m currently working on [Detaysoft](https://www.detaysoft.com/)
-
 - 🌱 I’m currently learning **Spring Boot and Cloud**
 
   📫 How to reach me:  &nbsp;<a href="https://linkedin.com/in/ali-nurkut-sullu" target="blank"><img align="center" alt="nurkut's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
